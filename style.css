@@ -30,7 +30,7 @@ body {
 
   background-color: var(--grey-900);
 
-  font-family: "Inter", Courier, monospace;
+  font-family: "Inter", sans-serif;
   font-size: 16px;
 }
 
@@ -54,7 +54,6 @@ body {
 .avatar {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
 
   width: 90%;
@@ -64,7 +63,6 @@ body {
 }
 
 .avatarImg {
-  flex: 0 0 auto;
   height: 80px;
   border-radius: 50%;
 }
@@ -83,14 +81,12 @@ body {
 .avatar h3 {
   margin-top: 10px;
   font-weight: 400;
-  letter-spacing: 0.5px;
-  font-size: 0.6rem;
+  font-size: 0.75rem;
 }
 
 .socialMedia {
   display: flex;
   flex-direction: column;
-  justify-content: center;
 
   width: 90%;
 
