@@ -10,8 +10,8 @@ This is my solution to the **Social Links Profile** challenge on Frontend Mentor
 
 ### Links
 
-- **Solution URL:** https://github.com/eduardoseq17/SocialLinksProfile.github.io
-- **Live Site URL:** https://eduardoseq17.github.io/SocialLinksProfile.github.io/
+- **Solution URL:** https://github.com/eduardoseq17/SocialLinkProfile
+- **Live Site URL:** https://eduardoseq17.github.io/SocialLinkProfile
 
 ## Built with
 
